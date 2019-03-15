@@ -3,5 +3,8 @@ public class HelloGithub {
         System.out.println("Hello Github");
         System.out.println("Hello java");
          System.out.println("Hello java");
+        System.out.println("Hello java");
+        System.out.println("Hello java");
+        System.out.println("Hello java");
     }
 }
