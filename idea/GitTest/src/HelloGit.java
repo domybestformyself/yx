@@ -3,6 +3,9 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("Hello IDEA");
         System.out.println("xy");
+        
+         System.out.println("xy");
+         System.out.println("xy");
 
     }
 }
